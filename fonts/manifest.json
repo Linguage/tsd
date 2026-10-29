@@ -1,0 +1,29 @@
+{
+  "family": "Noto Sans CJK SC",
+  "cssFamily": "TSD Sans",
+  "license": "SIL OFL 1.1",
+  "coverage": "GB2312 + Latin + punctuation + current source text",
+  "files": [
+    {
+      "file": "tsd-sans-regular.woff2",
+      "weight": "400",
+      "sourceSha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b",
+      "sha256": "e870454d33a5d5b2de9e925abf2fa1f5cc7b54ec922f550b79c40a34adf30275",
+      "bytes": 2471364
+    },
+    {
+      "file": "tsd-sans-medium.woff2",
+      "weight": "500",
+      "sourceSha256": "ca094f6b0001fb048ca39ddd797a0cdb0179e1e55c6561e111c49c3e6a61d7b7",
+      "sha256": "5095d9086e502c628915b1b13739225ce1f68bd937ddc88ad0578a082e5669e5",
+      "bytes": 2512996
+    },
+    {
+      "file": "tsd-sans-bold.woff2",
+      "weight": "600 700",
+      "sourceSha256": "b5f0d1a190a7f9b43c310a8850630af12553df32c4c050543f9059732d9b4c0a",
+      "sha256": "2cd27425ee624eb751b6a1c5a774085d6d25416330cea1d2901e144262e1f7f3",
+      "bytes": 2581404
+    }
+  ]
+}
